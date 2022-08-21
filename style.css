@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@font-face{
+    font-family: 'Xilosa';
+    src: url('fonte/xilosa_.ttf') format('truetype');
+    font-weight: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Xilosa', cursive;
+    min-height: 100vh;
+}
+
+header{
+    background-color: #260F01;
+    color: white;
+    text-align: center;
+}
+
+header h1{
+    padding-top: 30px;
+    font-variant: small-caps;
+    font-size: 7vh;
+}
+
+header h2{
+    font-size: 5vh;
+    font-variant: small-caps;
+}
+
+header p{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+section{
+    text-align: center;
+    padding: 10vh;
+    line-height: 2em;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 3vh;
+}
+
+section p{
+    padding-bottom: 2em;
+}
+
+.sem-imagem{
+    color: black;
+}
+
+#fundo1{
+    background-image: url('imagens/deserto.jpg');
+    background-position: 1% 70%;
+}
+
+#fundo2{
+    background-image: url('imagens/deserto.jpg');
+    background-position: 1% 70%;
+    background-image: url('imagens/planta.jpg');
+    background-position: 1% 50%;
+}
+
+.com-imagem{
+    box-shadow: inset 6px 6px 13px 0 rgba(0, 0, 0, 0.425);
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+.com-imagem p{
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px;
+    background-color: rgba(14, 13, 13, 0.705);
+    text-shadow: 1px 1px 0px black;
+}
+
+footer{
+    padding: 7px;
+    background-color: #260F01;
+    color: white;
+    text-align: center;
+}
