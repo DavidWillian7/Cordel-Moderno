@@ -2,12 +2,12 @@
 O desafio é transformar a poesia do Milton Duarte em um site, incluindo efeitos parallax nas imagens aplicadas ao fundo da página.
 
 <p align="center">
-<img src="imagens/print01.png" alt="site Cordel Moderno" align="center">
+<img src="imagens/print1.png" alt="site Cordel Moderno" align="center">
 </p>
 
 ### Responsividade:
 <p align="center">
-<img src="imagens/print02.jpg" alt="site Cordel Moderno na tela de celular">
+<img src="imagens/print2.jpg" alt="site Cordel Moderno na tela de celular">
 </p>
 
 <p align="center">
