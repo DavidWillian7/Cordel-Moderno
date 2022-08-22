@@ -11,7 +11,7 @@ O desafio é transformar a poesia do Milton Duarte em um site, incluindo efeitos
 </p>
 
 <p align="center">
-<img src="imagens/print03.jpg" alt="site Cordel Moderno na tela de celular" align="center">
+<img src="imagens/print3.jpg" alt="site Cordel Moderno na tela de celular" align="center">
 </p>
 
 ## Feito Com:
